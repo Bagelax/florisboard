@@ -1,19 +1,19 @@
 {
   "all": {
-    "c": {
-      "main": { "$": "auto_text_key", "code":  269, "label": "č" },
+    "ц": {
+      "main": { "$": "auto_text_key", "code": 1095, "label": "ч" },
       "relevant": [
-        { "$": "auto_text_key", "code":  263, "label": "ć" }
+        { "$": "auto_text_key", "code": 1115, "label": "ћ" }
       ]
     },
-    "d": {
-      "main": { "$": "auto_text_key", "code":  273, "label": "đ" }
+    "д": {
+      "main": { "$": "auto_text_key", "code": 1106, "label": "ђ" }
     },
-    "s": {
-      "main": { "$": "auto_text_key", "code":  353, "label": "š" }
+    "с": {
+      "main": { "$": "auto_text_key", "code": 1096, "label": "ш" }
     },
-    "z": {
-      "main": { "$": "auto_text_key", "code":  382, "label": "ž" }
+    "з": {
+      "main": { "$": "auto_text_key", "code": 1078, "label": "ж" }
     },
     "~right": {
       "relevant": [

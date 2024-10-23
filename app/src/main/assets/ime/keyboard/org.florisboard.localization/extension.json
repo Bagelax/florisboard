@@ -70,7 +70,8 @@
     { "id": "ru", "authors": [ "williamtheaker", "33kk" ] },
     { "id": "rue", "authors": [ "svvvst" ] },
     { "id": "sk", "authors": [ "stefan-misik", "majso" ] },
-    { "id": "sr", "authors": [ "hedidnothingwrong", "GrbavaCigla" ] },
+    { "id": "sr", "authors": [ "hedidnothingwrong", "GrbavaCigla", "Bagelax" ] },
+    { "id": "sr-cyr", "authors": [ "Bagelax" ] },
     { "id": "sv", "authors": [ "patrickgold" ] },
     { "id": "tr", "authors": [ "kisekinopureya", "patrickgold", "dvrnynr" ] },
     { "id": "udm", "authors": [ "vorgoron" ] },
@@ -516,7 +517,7 @@
     {
       "languageTag": "sr-RS",
       "composer": "org.florisboard.composers:appender",
-      "currencySet": "org.florisboard.currencysets:dollar",
+      "currencySet": "org.florisboard.currencysets:euro",
       "popupMapping": "org.florisboard.localization:sr",
       "preferred": {
         "characters": "org.florisboard.layouts:serbian_cyrillic"

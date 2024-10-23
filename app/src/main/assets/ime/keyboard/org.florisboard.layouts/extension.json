@@ -351,6 +351,18 @@
         "direction": "ltr"
       },
       {
+        "id": "serbian_cyrillic_popups",
+        "label": "Serbian (ЉЊЕРТЖ), without ЧЋЂШ",
+        "authors": [ "Bagelax" ],
+        "direction": "ltr"
+      },
+      {
+        "id": "serbian_latin_qwerty",
+        "label": "Serbian (QWERTY)",
+        "authors": [ "Bagelax" ],
+        "direction": "ltr"
+      },
+      {
         "id": "serbian_latin",
         "label": "Serbian (QWERTZ)",
         "authors": ["GrbavaCigla"],
